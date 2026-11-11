@@ -30,4 +30,4 @@ The Algorithm of Snake game, [algorithm.draw.io](Snake_game.drawio.png)
 
 - I have added another function to generate a new shape and add it at the tail of snake body, so it will follow the head
 
-#### 5.Score board to count how many food that snake eats, Score.py
+#### 5.Score board to count how many food that snake eats, [Score.py](score.py)
